@@ -1,0 +1,8 @@
+{
+	"name": "townske",
+	"version": "0.0.1",
+	"dependencies": {
+		"bootstrap-sass" : "*"
+	},
+	"private": true
+}

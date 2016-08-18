@@ -1,0 +1,23 @@
+//---------------------------------------
+//** Desc: base colours used through out site
+//** Contributors: Daniel Peterson
+//** Created by Dax on 26/01/16.
+//---------------------------------------
+
+$white: #ffffff;
+$white-transition: darken($white, 5%);
+$primary: #238e97;
+$secondary: #6cc3cc;
+$tertiary: #12393C;
+$tertiary-transition: lighten($tertiary, 70%);
+$complementary: #ef8716;
+$complementary-transition: lighten($complementary, 10%);
+$complementary-active: lighten($complementary, 20%);
+
+$error: #d92222;
+$success: #7ED321;
+$grey: #F7F7F7;
+$grey-1: #e0e0e0;
+$grey-2: #9B9B9B;
+$grey-3: #4a4a4a;
+$grey-4: #222222;
